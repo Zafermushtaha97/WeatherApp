@@ -1,0 +1,9 @@
+
+@media (max-width:450px){
+    .header,.weather,.details,.map{
+        width: 88% !important;
+    }
+    .details-degree{
+        margin-left: -30px !important;
+    }
+}

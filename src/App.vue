@@ -32,4 +32,6 @@ body{
     background-image: -webkit-gradient(linear,left top,left bottom,color-stop(9%,#113076),to(#157fba));
     background-attachment: fixed;
 }
+@import './assets/styles/style.css';
 </style>
+

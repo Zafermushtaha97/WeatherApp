@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="header">
+        <div class="header-main">
             <h2>Weather App</h2>
         </div>
     </div>
@@ -11,7 +11,7 @@ export default {
 }
 </script>
 <style scoped>
-    .header{
+    .header-main{
     padding: 1.8em 2.6em;
     color: white;
     background: #1b4c96;
