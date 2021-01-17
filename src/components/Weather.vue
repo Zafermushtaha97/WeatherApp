@@ -213,6 +213,11 @@ export default {
 .vue-map-container{
     width: 810px !important;
     height: 400px !important;
+    max-width: 100%;
+}
+.map .vue-map{
+  border-radius: 8px;
+  left: 20px;
 }
 .map{
   width: 54%;
